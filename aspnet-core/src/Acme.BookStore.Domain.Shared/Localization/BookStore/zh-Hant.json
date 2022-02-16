@@ -1,0 +1,31 @@
+{
+    "culture": "zh-Hant",
+  "texts": {
+    "Menu:Home": "首頁",
+    "Welcome": "歡迎",
+    "LongWelcomeMessage": "歡迎來到此應用程式. 這是一個基於ABP框架的起始專案. 有關更多訊息, 請瀏覽 abp.io.",
+    "Menu:BookStore": "書店",
+    "Menu:Books": "書籍",
+    "Actions": "行動",
+    "Close": "關閉",
+    "Delete": "刪除",
+    "Edit": "編輯",
+    "PublishDate": "發布日期",
+    "NewBook": "新書",
+    "Name": "名稱",
+    "Type": "類型",
+    "Price": "價格",
+    "CreationTime": "創建時間",
+    "AreyouSure": "你確定嗎？",
+    "AreyouSureToDelete": "你確定要刪除這個項目嗎？",
+    "Enum:BookType:0": "未定義",
+    "Enum:BookType:1": "冒險",
+    "Enum:BookType:2": "傳記",
+    "Enum:BookType:3": "反烏托邦",
+    "Enum:BookType:4": "奇妙",
+    "Enum:BookType:S": "恐怖",
+    "Enum:BookType:6": "科學",
+    "Enum:BookType:7": "科幻小說",
+    "Enum:BookType:8": "詩歌"
+  }
+}
